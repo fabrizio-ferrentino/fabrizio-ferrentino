@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px">
 <h1>Hi, I'm Fabrizio Ferrentino</h1>
 
+
 <!-- Bio Centrata -->
 <p>
   <b>Software developer based in Campania, Italy.</b><br>
@@ -17,7 +18,6 @@
 
 <br/>
 
----
 
 ### 🛠️ Languages and Tools
 
@@ -28,7 +28,6 @@
 | **Cloud & DB** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="25" title="PostgreSQL"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="25" title="MySQL"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="25" title="AWS"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="25" title="Docker"/> |
 | **Linguaggi** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="25" title="TypeScript"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="25" title="JavaScript"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="25" title="Git"/> |
 
----
 
 ### 🔥 Stats
 
@@ -36,22 +35,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrizio-ferrentino&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
----
 
-### Connect with me
+### 🌐 Connect with me
 
-<p>
-  <a href="https://www.github.com/fabrizio-ferrentino" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.gitlab.com/fabrizio-ferrentino" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fabrizio-ferrentino" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.github.com/fabrizio-ferrentino" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gitlab.com/fabrizio-ferrentino" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/fabrizio-ferrentino" target="_blank">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 </div>
